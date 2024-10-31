@@ -40,4 +40,4 @@ This project automates the login process and tests several login scenarios for t
 ## Running the Tests
 Run the main test script:
 ```bash
-python tests.main
+python -m tests.main
